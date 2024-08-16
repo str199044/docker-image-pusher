@@ -1,2 +1,2 @@
-livinphp/rocketmq:5.1.0
-redis:6.2
+elsh07/big-market-app:1.3
+elsh07/big-market-front-app:1.2
