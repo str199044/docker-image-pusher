@@ -1,7 +1,7 @@
 mysql:8.0.32
 redis:6.2
 rabbitmq:3.12.9
-rocketmq:5.1.0
+livinphp/rocketmq:5.1.0
 zookeeper:3.9.0
 registry:latest
 portainer:latest
